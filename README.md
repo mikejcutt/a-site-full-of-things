@@ -1,5 +1,3 @@
 # a-site-full-of-things
 
-Testing git push (I think)...
-
-Testing again because the first time didn't work...
+This site is going to be a collection of things, potentially, but most certainly stuff. Let's see where it goes!
