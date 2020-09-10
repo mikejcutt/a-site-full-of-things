@@ -5,3 +5,14 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Data Viz"
+      href: dataviz.html
+    - text: "Projects"
+      href: projects.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/mikejcutt
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/michael-cutter-6a4364157/

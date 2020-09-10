@@ -1,0 +1,8 @@
+---
+title: "Contact"
+---
+michael_c98@hotmail.com
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```

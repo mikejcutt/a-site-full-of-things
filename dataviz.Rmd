@@ -1,0 +1,11 @@
+---
+title: 'Data Viz'
+output: html_document
+---
+
+# Here be plots
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
