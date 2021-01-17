@@ -3,12 +3,26 @@ output_dir: "."
 navbar:
   title: "A site full of things"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "Data Viz"
-      href: dataviz.html
+    - icon: fa-dashboard
+      text: "Home"
+      menu:
+        - icon: fa-door-open
+          text: "Welcome"
+          href: index.html
+        - text: "---------"
+        - icon: fa-user-graduate
+          text: "Qualifications"
+          href: qualifications.html
+    - icon: fa-chart-area
+      text: "Data Viz"
+      menu:
+        - icon: fa-camera-retro
+          text: "Tidy Tuesday Series"
+          href: dataviz.html
     - text: "Projects"
+      icon: glyphicon glyphicon-tasks
       href: projects.html
+      
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
@@ -16,3 +30,7 @@ navbar:
       href: https://github.com/mikejcutt
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/michael-cutter-6a4364157/
+  
+output:
+  html_document:
+    theme: darkly

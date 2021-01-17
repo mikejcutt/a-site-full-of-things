@@ -1,15 +1,23 @@
 ---
-title: "Website test"
-author: "Michael J Cutter"
-date: "24/08/2020"
+title: "Welcome!"
 output: html_document
 ---
 
-Test text - fingers crossed this works!
+This site will be the home of all my analytical work for the foreseeable future.
 
+------------------------------------------------------------------------
 
+Check back soon for:
+
+-   Data Visualization
+
+    -   *Tidy-Tuesday*
+    -   *Football Viz*
+
+-   Dashboards
+
+-   Web apps in R Shiny
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-

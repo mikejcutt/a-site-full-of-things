@@ -1,0 +1,16 @@
+---
+title: "Qualifications and Certifications"
+---
+
+Google Analytics:
+
+![](google_analytics_cert.PNG)
+
+Data Visualisation:
+
+![](wpp_ai_academy_cert.PNG)
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
